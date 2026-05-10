@@ -8,7 +8,6 @@ venv.bak/
 # Jupyter notebook checkpoints & outputs
 .ipynb_checkpoints/
 *.ipynb_checkpoints
-*.ipynb
 
 # Python compiled files
 __pycache__/
