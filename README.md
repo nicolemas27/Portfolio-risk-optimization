@@ -19,7 +19,7 @@ This project downloads live market data, calculates risk metrics (VaR, CVaR, Sha
 ## Installation
 
 ```bash
-git clone https://github.com/nicolemas27/portfolio-risk-optimization.git
+git clone https://github.com/nicolemas27/Portfolio-risk-optimization.git
 cd portfolio-risk-optimization
 pip install -r requirements.txt
 ```
